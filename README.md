@@ -22,5 +22,4 @@ for each earthquake.
     * A legend was created to provide context for your map data.
     * Complete visualization generated as seen below. 
 
-    
-
+![Earthquake Mapping](https://user-images.githubusercontent.com/89491352/150271835-6b461b5a-c5ce-4949-b69c-6b19b052ebbf.png)
